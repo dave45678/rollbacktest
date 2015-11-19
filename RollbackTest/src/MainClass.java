@@ -2,7 +2,7 @@
 public class MainClass {
 
 	public static void main(String[] args) {
-		//version 1
+		//version 2
 
 	}
 
